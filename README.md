@@ -5,7 +5,7 @@
 ![OLED](https://img.shields.io/badge/Display-SSD1306_OLED-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
-**ESP8266 Smart Fan Controller** is an intelligent, automated fan control system built on the NodeMCU ESP8266 platform. It continuously monitors ambient temperature and current consumption, drives a relay-controlled fan with hysteresis logic, and displays all live readings on a 0.96" OLED screen.
+**SHODEN** is an intelligent, automated fan control system built on the NodeMCU ESP8266 platform. It continuously monitors ambient temperature and current consumption, drives a relay-controlled fan with hysteresis logic, and displays all live readings on a 0.96" OLED screen.
 
 ---
 
