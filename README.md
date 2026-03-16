@@ -1,4 +1,4 @@
-# ESP8266 Smart Fan Controller 🌡️💨
+# SHODEN 🌡️💨
 
 ![ESP8266](https://img.shields.io/badge/Hardware-ESP8266_NodeMCU-important?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Firmware-Arduino_C%2B%2B-00979D?style=for-the-badge&logo=arduino&logoColor=white)
